@@ -11,57 +11,50 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'https://www.linkedin.com/in/quintin-strickland-040856247/',
+    twitter: '',
+    mastodon: '',
     facebook: '',
-    instagram: '',
+    instagram: 'https://www.instagram.com/quintin.strickland/',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
+    medium: '',
+    dev: '',
+    stackoverflow: '', // example: ''
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
+    website: '',
     phone: '',
     email: '',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'file:///C:/Users/stric/OneDrive/Documents/Resumepdf.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'HTML',
+    'Programming',
+    'C#',
+    'Database Adminstration',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Longhorn Steakhouse',
+      position: 'Host',
+      from: 'November 2022',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.longhornsteakhouse.com/locations/nc/greenville/greenville-nc/5231',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Amazon',
+      position: 'Warehouse Associate',
+      from: 'May 2022',
+      to: 'August 2022',
+      companyLink: 'https://www.amazon.com/cybermonday/?keywords=%2Bamazon&tag=admarketus-20&ref=pd_sl_85e4f87c13115a6335c28d8a4d0f2edb88e5d864c751e76646fefb3c',
     },
   ],
   /* certifications: [
@@ -74,16 +67,13 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Business Management',
+      from: '2020',
+      to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      
     },
   ],
 
