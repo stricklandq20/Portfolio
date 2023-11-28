@@ -80,18 +80,29 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Professional Statement',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        'A brief explantion about who I am, and what I'm passionate about.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/professional%20pitch.pdf',
     },
     {
-      title: 'Project Name',
+      title: 'Conduct a Security Audit',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/casestudy.pdf',
+    },
+     {
+      title: 'Conduct a Security Audit',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/casestudy.pdf',
+    },
+     {
+      title: 'Conduct a Security Audit',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+      link: 'file:///C:/Users/stric/OneDrive/Documents/casestudy.pdf',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
